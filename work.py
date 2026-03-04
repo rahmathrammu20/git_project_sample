@@ -8,3 +8,6 @@ print(d)
 
 e=d+c
 print(e)
+
+def sub(x,y):
+  return (x-y)
